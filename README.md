@@ -19,7 +19,7 @@ const owlstronaut = {
 ```
 
 Welcome!  
-I"m working on exciting things at :octocat:!  
+I'm working on exciting things at :octocat:!  
 I'm building out an infrastructure to provide a more secure GitHub for enterprise and government clouds!
 
 <!--
