@@ -20,7 +20,6 @@ const owlstronaut = {
 
 Welcome!  
 I'm working on exciting things at :octocat:!  
-I'm building out an infrastructure to provide a more secure GitHub for enterprise and government clouds!
 
 <!--
 **owlstronaut/owlstronaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
