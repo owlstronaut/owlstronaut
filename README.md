@@ -12,9 +12,7 @@ const owlstronaut = {
     year: 2010
   },
   code: [JavaScript, Typescript, HTML, CSS, Ruby, C#],
-  ethereumAddress: "0x9B2e127Cc12303b9123582d00Edf10b815a80Ee9",
-  cardanoAddress: "addr1q9eare8dnpmcf7fg957g4vmsvarn6dk0jruyt3jdkw2tj5gtpscgakd32q30yzp4xehs3z5vt72z8xfavsug8mswkegsn5deqx",
-  interests: [⚾, 🖥️, 🎮, ₿]
+  interests: [⚾, 🖥️, 🎮, ⛵]
 };
 ```
 
