@@ -3,8 +3,8 @@
 ```javascript
 const owlstronaut = {
   name: "Michael Smith",
-  employer: "GitHub",
-  previousEmployers: ["Microsoft", "Cornerstone Systems NW"],
+  employer: "Chainguard",
+  previousEmployers: ["GitHub", "Microsoft", "Cornerstone Systems NW"],
   education: {
     school: "Western Washington University",
     type: "Bachelor's of Science",
@@ -17,7 +17,7 @@ const owlstronaut = {
 ```
 
 Welcome!  
-I'm working on exciting things at :octocat:!  
+I'm working on exciting things at Chainguard 🐙!  
 
 <!--
 **owlstronaut/owlstronaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
